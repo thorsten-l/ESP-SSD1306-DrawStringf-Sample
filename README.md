@@ -8,3 +8,6 @@ I've compiled and successfully tested this code with a WEMOS 0.66 OLED + WEMOS D
 - [D1 mini](https://docs.wemos.cc/en/latest/d1/index.html)
 - [D32 / LOLIN32](https://docs.wemos.cc/en/latest/d32/index.html)
 - [OLED 0.66 Shield](https://docs.wemos.cc/en/latest/d1_mini_shield/oled_0_66.html)
+
+## Picture
+![](./images/oled.jpg)
